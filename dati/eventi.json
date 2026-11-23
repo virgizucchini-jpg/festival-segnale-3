@@ -11,6 +11,24 @@
     "sede_id": 1
   },
   {
+    "id": 2,
+    "titolo": "Mappe da immaginare",
+    "data": "2026-06-12",
+    "orario": "14:00",
+    "categoria": "Laboratorio",
+    "descrizione": "Un laboratorio per esplorare il quartiere attraverso segni, forme e mappe creative.",
+    "sede_id": 1
+  },
+  {
+    "id": 3,
+    "titolo": "Materiali e nuove forme",
+    "data": "2026-06-13",
+    "orario": "14:00",
+    "categoria": "Mostra",
+    "descrizione": "Un percorso tra materiali, idee e progetti che trasformano gli oggetti di tutti i giorni.",
+    "sede_id": 1
+  },
+  {
     "id": 4,
     "titolo": "Oggetti in dialogo",
     "data": "2026-06-13",
@@ -21,4 +39,3 @@
     "immagine_alt": "Due forme geometriche si fronteggiano sopra una linea comune.",
     "sede_id": 1
   }
-]

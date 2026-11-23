@@ -324,3 +324,37 @@ button:focus {
     grid-template-columns: repeat(3, 1fr);
   }
 }
+.meteo {
+  max-width: 40rem;
+  padding: 1.25rem;
+  border: 1px solid #b7c0b7;
+  border-radius: 0.75rem;
+  background: #ffffff;
+}
+
+.meteo-valori {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  gap: 0.25rem 1.5rem;
+}
+
+.meteo-valori p {
+  margin: 0;
+}
+
+.meteo-orario {
+  grid-column: 1 / -1;
+  color: #46564b;
+  font-size: 0.875rem;
+}
+
+.meteo-nota,
+.meteo-fonte {
+  max-width: 65ch;
+  font-size: 0.875rem;
+}
+
+.meteo-errore {
+  margin: 0;
+  color: #8b1e1e;
+}
